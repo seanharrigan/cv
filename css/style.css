@@ -1,0 +1,71 @@
+
+/********************** FONT ********************/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+/********************** TAG SELECTORS ********************/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', 'sans-serif';
+    background-color: #EFF5F5;
+}
+
+h1 {
+    color: #d85d3b;
+}
+
+h3 {
+    color: #EB6440
+}
+
+p{
+    color: #497174
+}
+
+li{
+    color: #497174
+}
+
+em{
+    color: #497174
+}
+
+
+table{
+    color: #497174
+}
+
+hr {
+    border-style: none; 
+    border-top-style: dotted;
+    border-color: #D6E4E5;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+
+/* unvisited link */
+a:link {
+    color: #f87e5c;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #e6795b91;
+;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:#d65c3a9b
+  }
+
+
+  /********************** CLASS SELECTORS ********************/
+
+ 
